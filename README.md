@@ -1,4 +1,4 @@
-# parser-to-map
+# XML Parser in Java
 
 ## About
 Project for parsing data from an XML file and drawing elements on a map saved in a JPG file using Java language.
