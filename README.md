@@ -20,4 +20,4 @@ Project for parsing data from an XML file and drawing elements on a map saved in
 3. The project should compile and the output should be displayed in the "Run" console at the bottom of the IntelliJ IDEA window.
 
 ## Additional Information
-<p>This program was developed for the 2023 winter semester JAVA Programming course in the Engineering and Data Analysis program at AGH UST.</p>
+<p>This program was developed for the JAVA Programming course as part of the winter semester in the 3rd year of the Engineering and Data Analysis program at AGH University.</p>
